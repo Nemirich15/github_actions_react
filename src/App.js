@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import '@testing-library/jest-dom';
 
 function App() {
   return (
